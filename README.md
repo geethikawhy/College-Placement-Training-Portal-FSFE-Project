@@ -1,5 +1,10 @@
 # College-Placement-Training-Portal-FSFE-Project
 FSFE PROJECT
+## Team Members
+- Shaheena Amreen Shaik - 2620030469
+- Geethika              - 2620030519 
+## Faculty
+ - Ravi kumar sir
 # College Placement Training Portal
 
 *A centralized platform for organized campus placement preparation.*
@@ -34,9 +39,3 @@ The College Placement Training Portal is a frontend web application designed to 
 ## Project Type
 
 Frontend Development Project
-
-## Team Members
-- Shaheena Amreen Shaik - 2620030469
-- Geethika              - 2620030519 
-## Faculty
- - Ravi kumar sir
